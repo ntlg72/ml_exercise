@@ -23,7 +23,7 @@ Results were compared to identify the model with the best overall performance.
 
 ### General Conclusions
 
-* The best-performing model was \[**Model Name**] based on the evaluated metrics.
-* Preprocessing steps such as encoding categorical variables and feature scaling were key, especially for models sensitive to feature scale like Logistic Regression.
-* Model selection ultimately depends on the type of classification problem (binary vs. multiclass) and the intended use (e.g., precision vs. interpretability).
+* The best-performing model was \[**_**] based on the evaluated metrics.
 
+
+NOTE: I experienced some technical problems with model training time, and it has not benn possible to obtain results fast.
